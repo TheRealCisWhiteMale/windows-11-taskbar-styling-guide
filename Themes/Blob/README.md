@@ -27,19 +27,19 @@ Click each to expand settings:
   <summary>Taskbar Blob Shape</summary>
 
   ```yaml
-BlobShape:
-  Dimensions: auto, 18
-  Margins: 0, 4, 0, 0
-  TopRadius: '10'
-  BottomRadius: '8'
-Colors:
-  BgOpacity: ''
-  CustomColor: '#FFFFFF | #09131E'
-SystemButtons:
-  SystemButtonsBlob: 1
-  WidgetsBlob: 1
-  DateTimeBlob: 1
-  TrayButtonsBlob: 1
+  BlobShape:
+    Dimensions: auto, 18
+    Margins: 0, 4, 0, 0
+    TopRadius: '10'
+    BottomRadius: '8'
+  Colors:
+    BgOpacity: ''
+    CustomColor: '#FFFFFF | #09131E'
+  SystemButtons:
+    SystemButtonsBlob: 1
+    WidgetsBlob: 1
+    DateTimeBlob: 1
+    TrayButtonsBlob: 1
   ```
   </details>
 
@@ -47,11 +47,11 @@ SystemButtons:
   <summary>Taskbar Height and Icon Size</summary>
 
   ```yaml
-TaskbarHeight: 36
-IconSize: 16
-TaskbarButtonWidth: 28
-IconSizeSmall: 16
-TaskbarButtonWidthSmall: 28
+  TaskbarHeight: 36
+  IconSize: 16
+  TaskbarButtonWidth: 28
+  IconSizeSmall: 16
+  TaskbarButtonWidthSmall: 28
   ```
   </details>
 
