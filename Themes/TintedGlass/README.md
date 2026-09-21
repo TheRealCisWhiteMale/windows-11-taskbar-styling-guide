@@ -9,7 +9,7 @@
 * This taskbar theme is designed to be used in dark mode.
 * If you would like the System Tray to be qr code glyph to match [TaskbarXII theme for Windows 11 Taskbar Styler](https://github.com/ramensoftware/windows-11-taskbar-styling-guide/blob/main/Themes/TaskbarXII/README.md) add this at the end of the settings.
 
-![Screenshot](QR Code Preview.png)
+![Screenshot](QR.png)
 
 <details>
 <summary>Click to expand mod settings</summary>
